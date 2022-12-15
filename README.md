@@ -1,4 +1,4 @@
-# PRS-calculation-using-GWAS-summary-and-plink-file-as-input-in-R
+# PRS-calculation-using-GWAS-summary-and-plink-file-as-input-in-R and using principle components startifaction as confounding factor for PRS 
 The calculation of polygenic risk scores from GWAS summary statistics and genotype data in PLINK format typically involves several steps, including the following:
 
 Load the summary statistics file into R and extract the necessary columns, such as the SNP ID, effect size, and p-value.
